@@ -1,3 +1,3 @@
-# machineroundhemant
+# machineround
 
-A new Flutter project.
+A new Flutter project for the machine round.
